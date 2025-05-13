@@ -5,37 +5,7 @@
   <p>
     Building a <strong>microservices-ready test automation framework</strong> that integrates:
   </p>
-  
-  <div class="framework-features">
-    <div class="feature">
-      <div class="feature-icon">🖥️</div>
-      <h4>UI Testing</h4>
-      <p>Selenium/Playwright for web applications</p>
-    </div>
-    
-    <div class="feature">
-      <div class="feature-icon">🔗</div>
-      <h4>API Testing</h4>
-      <p>Postman + Newman for automated CI/CD execution</p>
-    </div>
-    
-    <div class="feature">
-      <div class="feature-icon">📱</div>
-      <h4>Mobile Testing</h4>
-      <p>Appium for cross-platform mobile validation</p>
-    </div>
-  </div>
-
-  <div class="tech-stack">
-    <h4>Key Technologies:</h4>
-    <ul>
-      <li>Containerized execution (Docker)</li>
-      <li>Parallel test execution</li>
-      <li>Cloud reporting integration</li>
-      <li>Microservices architecture support</li>
-    </ul>
-  </div>
-</div>
+<p> Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.  </p>
 
 <div class="learning-section">
   <h3>🌱 Current Learning Focus</h3>
