@@ -7,9 +7,24 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 
-🌱 I'm currently learning
-
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products.
+<div class="learning-section">
+  <h3>🌱 Current Learning Focus</h3>
+  <p>
+    I'm diving deep into <strong>cloud technologies</strong>, specifically exploring 
+    <span class="highlight">AWS services</span> to revolutionize test automation. 
+    Currently experimenting with:
+  </p>
+  <ul class="tech-list">
+    <li><strong>AWS Lambda</strong> for serverless test execution</li>
+    <li><strong>Amazon EC2</strong> to scale automated test environments</li>
+    <li><strong>AWS Device Farm</strong> for cross-platform testing</li>
+    <li><strong>CI/CD pipelines</strong> with AWS CodeBuild/CodePipeline</li>
+  </ul>
+  <p>
+    Goal: Build <strong>cloud-native test frameworks</strong> that reduce infrastructure costs 
+    while improving test coverage and reliability.
+  </p>
+</div>
 
 <div class="achievements-section">
   <h2>🏆 Key Achievements</h2>
