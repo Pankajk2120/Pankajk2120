@@ -1,11 +1,41 @@
 ## Hi there 👋
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻 </h2>
+<div class="project-section">
+  <h3>🔭 Current Project: Test Automation Framework</h3>
+  <p>
+    Building a <strong>microservices-ready test automation framework</strong> that integrates:
+  </p>
+  
+  <div class="framework-features">
+    <div class="feature">
+      <div class="feature-icon">🖥️</div>
+      <h4>UI Testing</h4>
+      <p>Selenium/Playwright for web applications</p>
+    </div>
+    
+    <div class="feature">
+      <div class="feature-icon">🔗</div>
+      <h4>API Testing</h4>
+      <p>Postman + Newman for automated CI/CD execution</p>
+    </div>
+    
+    <div class="feature">
+      <div class="feature-icon">📱</div>
+      <h4>Mobile Testing</h4>
+      <p>Appium for cross-platform mobile validation</p>
+    </div>
+  </div>
 
-🔭 I'm currently working on
-
-- Microservices Testing Automation Framework
-- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-- Postman Newman Automated Test 
+  <div class="tech-stack">
+    <h4>Key Technologies:</h4>
+    <ul>
+      <li>Containerized execution (Docker)</li>
+      <li>Parallel test execution</li>
+      <li>Cloud reporting integration</li>
+      <li>Microservices architecture support</li>
+    </ul>
+  </div>
+</div>
 
 <div class="learning-section">
   <h3>🌱 Current Learning Focus</h3>
