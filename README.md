@@ -2,10 +2,8 @@
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻 </h2>
 <div class="project-section">
   <h3>🔭 Current Project: Test Automation Framework</h3>
-  <p>
-    Building a <strong>microservices-ready test automation framework</strong> that integrates:
-  </p>
-<p> Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.  </p>
+  <p>Building a <strong>microservices-ready test automation framework</strong> that integrates: </p>
+  <p>Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.</p>
 
 <div class="learning-section">
   <h3>🌱 Current Learning Focus</h3>
@@ -58,5 +56,35 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
+
+<div class="contact-section" align="center">
+  <h2>📬 Let's Connect!</h2>
+  
+  <div class="contact-card">
+    <p>
+      I'm actively exploring new opportunities and collaborations. 
+      Whether you have a project idea, job opportunity, or just want to chat about tech, 
+      I'd love to hear from you!
+    </p>
+    
+    <div class="contact-method">
+      <a href="mailto:khadepankaj30@gmail.com" class="email-btn">
+        ✉️ Email Me: khadepankaj30@gmail.com
+      </a>
+    </div>
+    
+    <div class="social-links">
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
+      • 
+      <a href="https://github.com/Pankajk2120" target="_blank">💻 GitHub</a>
+      • 
+    </div>
+  </div>
+  
+  <p class="closing-note">
+    Thank you for visiting my profile! I look forward to discussing how I can contribute 
+    to your next innovative project.
+  </p>
+</div>
 
 
