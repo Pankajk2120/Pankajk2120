@@ -11,14 +11,66 @@
 
 - I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products.
 
-🥇 Achievements
+<div class="achievements-section">
+  <h2>🏆 Key Achievements</h2>
+  <ul class="achievements-list">
+    <li>
+      <strong>Boosted software stability by 20%</strong> by implementing comprehensive manual testing strategies, ensuring flawless cross-device functionality and UX.
+    </li>
+    <li>
+      <strong>Mentored 5 junior QA engineers</strong> in test automation best practices, slashing test execution time by 40% while increasing coverage by 25%.
+    </li>
+    <li>
+      <strong>Automated 40% of manual testing processes</strong> by developing Selenium+Java scripts, accelerating release cycles while maintaining 25% higher test coverage.
+    </li>
+  </ul>
+</div>
 
--Implemented thorough manual testing strategies for the application, ensuring seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
-
--Guided and trained 5 Junior QA team members on test automation best practices, resulting in a  <b>40% decrease in test execution time and a 25% increase in test coverage </b>
-
--Engineered automation scripts using Selenium and Java to increase testing efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase in test coverage</b>
+<style>
+  .achievements-section {
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 800px;
+    margin: 25px auto;
+    padding: 20px;
+    background: #f8fafc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .achievements-section h2 {
+    color: #1e293b;
+    margin: 0 0 15px 0;
+    font-size: 1.5em;
+    border-bottom: 2px solid #f59e0b;
+    padding-bottom: 8px;
+  }
+  
+  .achievements-list {
+    padding-left: 5px;
+    list-style-type: none;
+  }
+  
+  .achievements-list li {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.5;
+    color: #334155;
+  }
+  
+  .achievements-list li:before {
+    content: "•";
+    color: #f59e0b;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+  }
+  
+  .achievements-list strong {
+    color: #dc2626;
+    font-weight: 600;
+  }
+</style>
 
 ## 💼 Technical Skills
 
