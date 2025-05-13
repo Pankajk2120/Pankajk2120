@@ -67,20 +67,7 @@
       I'd love to hear from you!
     </p>
     
-    <div class="contact-method">
-      <a href="mailto:khadepankaj30@gmail.com" class="email-btn">
-        ✉️ Email Me: khadepankaj30@gmail.com
-      </a>
-    </div>
-    
-    <div class="social-links">
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
-      • 
-      <a href="https://github.com/Pankajk2120" target="_blank">💻 GitHub</a>
-      • 
-    </div>
-  </div>
-  
+   
   <p class="closing-note">
     Thank you for visiting my profile! I look forward to discussing how I can contribute 
     to your next innovative project.
