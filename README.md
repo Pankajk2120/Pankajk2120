@@ -26,51 +26,6 @@
   </ul>
 </div>
 
-<style>
-  .achievements-section {
-    font-family: 'Segoe UI', sans-serif;
-    max-width: 800px;
-    margin: 25px auto;
-    padding: 20px;
-    background: #f8fafc;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-  
-  .achievements-section h2 {
-    color: #1e293b;
-    margin: 0 0 15px 0;
-    font-size: 1.5em;
-    border-bottom: 2px solid #f59e0b;
-    padding-bottom: 8px;
-  }
-  
-  .achievements-list {
-    padding-left: 5px;
-    list-style-type: none;
-  }
-  
-  .achievements-list li {
-    margin-bottom: 12px;
-    padding-left: 20px;
-    position: relative;
-    line-height: 1.5;
-    color: #334155;
-  }
-  
-  .achievements-list li:before {
-    content: "•";
-    color: #f59e0b;
-    font-weight: bold;
-    position: absolute;
-    left: 0;
-  }
-  
-  .achievements-list strong {
-    color: #dc2626;
-    font-weight: 600;
-  }
-</style>
 
 ## 💼 Technical Skills
 
