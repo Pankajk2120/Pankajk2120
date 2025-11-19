@@ -56,6 +56,9 @@
 
 <div class="contact-section" align="center">
   <h2>📬 Let's Connect!</h2>
+  <p>Phone: <a href="tel:+919137628933">+91 9137628933</a></p>
+  <p>Email: <a href="mailto:khadepankaj30@gmail.com">khadepankaj30@gmail.com</a></p>
+
   
   <div class="contact-card">
     <p>
