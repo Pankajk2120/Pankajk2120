@@ -55,9 +55,8 @@
 
 
 <div class="contact-section" align="center">
-  <h2>📬 Let's Connect!</h2>
   <h2>
-  <a href="mailto:yourname@gmail.com" style="text-decoration: none; color: inherit;">
+  <a href="mailto:khadepankaj30@gmail.com" style="text-decoration: none; color: inherit;">
     📬 Let's Connect!
   </a>
 </h2>
