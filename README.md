@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
-
 <div class="contact-section" align="center">
   <h2>
   <a href="mailto:khadepankaj30@gmail.com" style="text-decoration: none; color: inherit;">
